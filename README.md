@@ -580,29 +580,3 @@ Real-World Testing
  This repository focuses specifically on documenting **my work with the machine-learning models, model training, evaluation, the Spectral ResNet-18 model, and the analysis of its performance on both benchmark and real-world satellite imagery.**
 
 ---
-
- # 22\. Acknowledgements
-
- I would like to thank the colleagues and organizers involved in the **ROSPIN Summer School** project for their collaboration and support.
-
- The work presented here builds upon the collaborative project while focusing on my individual contributions to the machine-learning and model-development components.
-
----
-
- # 23\. Author
-
- **Darius Sasarman**
-
- **ROSPIN Summer School**
-
- Areas of work:
-
- - Machine Learning
-- Deep Learning
-- Computer Vision
-- Remote Sensing
-- Satellite Image Classification
-- Model Training & Evaluation
-- Multispectral Image Analysis
-
- This version makes your **99% model the centerpiece of your contribution**, while still accurately explaining that the **97% RGB ResNet-18 is the production model**. That's an important distinction and actually makes the project look more technically mature: you didn't just chase the highest accuracy—you also examined deployment constraints and real-world generalization.
