@@ -1,9 +1,3 @@
-Yes — this gives enough concrete information to make the README much stronger. Since this is **your personal repository**, I would keep the technical model overview you provided, but add a clear **“My Contribution”** section near the top so a recruiter or reviewer immediately understands what you personally worked on.
-
- I would also avoid saying that you personally developed every model if the project was collaborative. Instead, distinguish between the models you studied/evaluated and the model you specifically trained.
-
- Here is a polished README incorporating your information:
-
  # Land Cover Classification — Machine Learning & Deep Learning
 
  An end-to-end **machine-learning and deep-learning pipeline for land-cover classification** using Sentinel-2 satellite imagery and the EuroSAT 10-class dataset.
